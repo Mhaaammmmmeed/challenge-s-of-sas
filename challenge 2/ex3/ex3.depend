@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725373046 source:c:\users\youcode\desktop\challenge 2\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+
