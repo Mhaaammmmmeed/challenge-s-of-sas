@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725533496 source:c:\users\youcode\desktop\tableaux\chqllenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725465422 source:c:\users\youcode\desktop\tableaux\challenge 12\main.c
+	<stdio.h>
+	<stdlib.h>
+
