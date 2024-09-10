@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725887795 source:c:\users\youcode\desktop\sas\first-repo-at-youcode\chaine de character\challenge 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
