@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725360822 source:c:\users\youcode\desktop\challenge 2\exer 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
