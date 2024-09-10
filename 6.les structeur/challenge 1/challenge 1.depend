@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725973822 source:c:\users\youcode\desktop\sas\first-repo-at-youcode\6.les structeur\challenge 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
